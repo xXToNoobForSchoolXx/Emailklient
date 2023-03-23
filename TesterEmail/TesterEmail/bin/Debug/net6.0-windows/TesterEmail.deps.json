@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TesterEmail/1.0.0": {
+        "runtime": {
+          "TesterEmail.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesterEmail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

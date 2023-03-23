@@ -1,0 +1,17 @@
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\bin\Debug\net6.0-windows\TesterEmail.exe
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\bin\Debug\net6.0-windows\TesterEmail.deps.json
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\bin\Debug\net6.0-windows\TesterEmail.runtimeconfig.json
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\bin\Debug\net6.0-windows\TesterEmail.dll
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\bin\Debug\net6.0-windows\TesterEmail.pdb
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.csproj.AssemblyReference.cache
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.csproj.GenerateResource.cache
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.AssemblyInfoInputs.cache
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.AssemblyInfo.cs
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.csproj.CoreCompileInputs.cache
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.dll
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\refint\TesterEmail.dll
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.pdb
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.genruntimeconfig.cache
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\ref\TesterEmail.dll
+C:\Users\simon.gottfridsson\source\repos\TesterEmail\TesterEmail\obj\Debug\net6.0-windows\TesterEmail.TesterEmailForm.resources
